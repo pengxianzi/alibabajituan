@@ -1,0 +1,184 @@
+div {
+	display: block;
+}
+
+#overview.container {
+	min-height: 800px;
+}
+
+.container {
+	margin: auto;
+	width: 960px;
+	padding: 90px 10px;
+	padding-bottom: 100px;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+h1 {
+	/* font-size: 24px; */
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 35px;
+	color: #333333;
+}
+
+#overview #row1 {
+	margin-bottom: 37px;
+}
+
+#overview #text1 {
+	width: 399px;
+	padding: 51px 21px;
+}
+
+
+p {
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	/* line-height: 20px; */
+	line-height: 22px;
+	margin-bottom: 20px;
+}
+
+#overview p {
+	color: #666666;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 19.2px;
+	margin-bottom: 27px;
+}
+
+body {
+	/* font-size: 14px; */
+	font-size: 16px;
+	font-weight: 300;
+	color: #333333;
+	/* font-family: 'Open Sans', sans-serif; */
+	font-family: 'Open Sans', 'Microsoft YaHei', "Heiti SC", 'STHeiti Light', 'PMingLiU', sans-serif;
+	height: 100%;
+	overflow: auto;
+	font-size: 12px;
+	color: #333333;
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+}
+
+#overview .col {
+	float: left;
+}
+
+
+
+center,
+table,
+caption,
+embed,
+menu,
+ruby,
+mark,
+	{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+*:before,
+*:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#overview img {
+	width: 100%;
+}
+
+img {
+	display: block;
+}
+
+#overview h2.orangeHeading {
+	text-transform: none;
+	color: #FF6600;
+	margin-bottom: 0px;
+}
+
+#overview h2 {
+	text-transform: uppercase;
+	margin-bottom: 9px;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19.2px;
+}
+
+h2 {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 23px;
+	color: #333333;
+}
+
+#shoutext1 {
+	width: 400px;
+	height: 460px;
+	float: right;
+}
+
+.img {
+	width: 540px;
+	height: 303px;
+	float: left;
+}
+
+.row {
+	height: 460px;
+}
+
+.img2 {
+	width: 400px;
+	height: 440px;
+	float: right;
+}
+
+#shoutext2 {
+	width: 539px;
+	height: 681px;
+	display: block;
+	float: left;
+}
+
+.t1 {
+	display: inline-block;
+}
+
+.wrapper {
+	height: 1900px;
+}
+
+#tb3 {
+	margin-top: 230px;
+}
+
+.t3 {
+	width: 540px;
+	height: 166px;
+}
+
+.im1 {
+	display: block;
+	position: absolute;
+	top: 1380px;
+	right: 120px;
+}

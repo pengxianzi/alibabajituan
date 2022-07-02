@@ -1,0 +1,32 @@
+.changjian {
+	height: 800px;
+	padding: 90px 10px;
+	padding-bottom: 100px;
+	margin-top: 68px;
+}
+
+.c-title h1 {
+	margin-bottom: 26px;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 35px;
+	color: #333333;
+}
+
+.group {
+	width: 940px;
+	height: 74px;
+	border-bottom: 1px solid #999;
+}
+
+.group-title {
+	background-image: url(../imges/+.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding: 27px 0 27px 34px;
+	line-height: 19px;
+	font-size: 18px;
+	color: #069cfb;
+	cursor: pointer;
+	font-weight: normal;
+}

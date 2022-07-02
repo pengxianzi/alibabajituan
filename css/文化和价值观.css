@@ -1,0 +1,118 @@
+.cultural-value-left,
+.cultural-value-right {
+	float: left;
+	width: 480px;
+	height: 630px;
+	margin-top: 95px;
+}
+
+.cultural-value-right {
+	margin-top: 295px;
+}
+
+/* .clear{
+				display: block;
+				clear: both;
+				content: "";
+			} */
+.cultural-value-left>span {
+	display: inline-block;
+	margin-top: 100px;
+}
+
+.cultural-value-left>img {
+	display: block;
+	margin-top: 30px;
+}
+
+.cultural-value-left>h1 {
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 35px;
+	color: #333333;
+	margin-bottom: 26px;
+	text-transform: uppercase;
+}
+
+.cultural-value-right>h2 {
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.cultural-value span {
+	color: #666666;
+}
+
+.cultural-value-right>img {
+	display: block;
+	margin-top: 50px;
+}
+
+.nav span {
+	transition: none;
+	/* 解决css:indenx-nav里的冲突 */
+}
+
+
+.line-before,
+.line-after {
+	width: 200px;
+}
+
+.line {
+	width: 660px;
+	border-top: 1px dotted #717171;
+	margin: 0 auto;
+}
+
+/* 价值观 */
+.value-title>h2 {
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	color: #333333;
+	margin-top: 60px;
+}
+
+.value-title>p {
+	text-align: center;
+	color: #333333;
+}
+
+.value-title>ul {
+	margin-top: 70px;
+}
+
+.value-title li {
+	width: 220px;
+	height: 360px;
+	float: left;
+	text-align: center;
+	margin: 0 50px;
+	box-sizing: border-box;
+}
+
+.value-title li>h2 {
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	color: #333333;
+	margin-top: 30px;
+}
+
+.value-title li>p {
+	color: #333;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.footer {
+	margin-top: 110px;
+}

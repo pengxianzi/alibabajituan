@@ -1,0 +1,156 @@
+.footer {
+	height: 445px;
+	background-color: #ff6a00;
+}
+
+.footer-box {
+	padding-top: 45px;
+}
+
+.footer-top {
+	width: 960px;
+	height: 282px;
+	float: left;
+	border-bottom: 1px solid #ffb380;
+}
+
+.footer-logo {
+	display: inline-block;
+	width: 189px;
+	float: left;
+}
+
+.footer-top-box {
+	float: left;
+	color: #fff;
+	width: 732px;
+	margin-left: 33px;
+	text-align: left;
+}
+
+.footer-top-box-F {
+	width: 177px;
+	float: left;
+}
+
+.footer-top-box-F>span {
+	display: block;
+	font-weight: bold;
+	line-height: 12px;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.footer-top-box-F a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 23px;
+}
+
+.footer-top-box-F a:hover {
+	text-decoration: underline;
+}
+
+.footer-top-box-S {
+	width: 177px;
+	float: left;
+}
+
+.footer-top-box-S>span {
+	display: block;
+	font-weight: bold;
+	line-height: 12px;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.footer-top-box-S a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 23px;
+}
+
+.footer-top-box-S a:hover {
+	text-decoration: underline;
+}
+
+.footer-top-box-T {
+	width: 177px;
+	float: left;
+}
+
+.footer-top-box-T>span {
+	display: block;
+	font-weight: bold;
+	line-height: 12px;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.footer-top-box-T a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 23px;
+}
+
+.footer-top-box-T a:hover {
+	text-decoration: underline;
+}
+
+.footer-top-box-E {
+	width: 177px;
+	float: left;
+}
+
+.footer-top-box-E>span {
+	display: block;
+	font-weight: bold;
+	line-height: 12px;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.footer-top-box-E a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 23px;
+}
+
+.footer-top-box-E a:hover {
+	text-decoration: underline;
+}
+
+
+.footer-bottom {
+	float: left;
+	height: 77px;
+	color: #fff;
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+	padding: 20px 0;
+}
+
+.footer-bottom a {
+	display: inline-block;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.footer-bottom span {
+	display: inline-block;
+	margin: 0 3px;
+}
+
+.footer-bottom a:hover {
+	text-decoration: underline;
+}

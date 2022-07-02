@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;cursor: pointer;
+}
+
+li {
+	list-style: none;
+}
+
+.clear::after {
+	display: block;
+	content: "";
+	clear: both;
+}
+
+.w960 {
+	width: 960px;
+	margin: 0 auto;
+}
